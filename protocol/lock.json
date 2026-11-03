@@ -1,0 +1,17 @@
+{
+  "frozen_utc": "2026-11-03T11:25:00.811195+00:00",
+  "version": "1.2",
+  "files": {
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/protocol/task_A.md": "e57a2e8dc51d111fd7b18523dbf580e7ab03d0b34389f9da302fa5706cdba2fe",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/protocol/实验协议.md": "475441c9e45cce8048eeac6fdf30d50785a743f7420b4a9e0f0cdcd68bf991f7",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/protocol/task_C.md": "ab63bdadec97a3dd2e925e97c333b66a62418ae07c2d7725f3ec7eb67855ca82",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/protocol/task_B.md": "569a36375737fa43ee73ac8a9d2ea799d1083842a185c6882677d4c0cad3f986",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/protocol/验收标准.md": "e97d1119c2c989e0bb92d7b66e3c0ccced8aa3f22e3818f648dc50e9c50a88df",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/materials/A_paper.txt": "35016242309cd659a170d3eee16bd0ab2df9253af0b30e6fbede5ae10b27c7ba",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/materials/B_paper.txt": "58adcdd195b5efd6aae4c780fa673bba4a5af7e7e9af6025f24f84b5d5fd8201",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/materials/C_abstract_only.txt": "98dd91c82ff7758ea8e7c1543c5cd7762c643833d2645833bd47e4a89670f554",
+    "/Users/admin/.codex/skills/laorui-causal-paper-audit/SKILL.md": "cca8d95e32e51ec804722f19a1cc0e4cf7e8c961f2d7c2ba4f8fa5b795337de3",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/work/prepare_materials.py": "bbd1471d9d56cf7f8b88bf67ac75d28de2a063349e86ad9ae2afa3c992c14ce5",
+    "members/laorui/产品分析/玻尔实证论文因果审计参赛_20261103/work/run_cases.py": "9a71c3c08d17ba9f2733ab698dbb6403528565595c515b05af766a2a765da240"
+  }
+}
